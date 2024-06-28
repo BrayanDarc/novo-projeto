@@ -1,8 +1,8 @@
-CONCLUSÃO
+# CONCLUSÃO <!-- omit in toc --><!-- markdownlint-disable -->
 
-15. RESUMO E REFORÇO DOS PONTOS PRINCIPAIS
+## 15. RESUMO E REFORÇO DOS PONTOS PRINCIPAIS
 
-15.1 RECAPITULAÇÃO DA IMPORTÂNCIA DO VERSIONAMENTO.
+## 15.1 RECAPITULAÇÃO DA IMPORTÂNCIA DO VERSIONAMENTO.
 
 Como vimos, o Versionamento de Código ou Controle de Versão surgiu com o intuito de facilitar a dinâmica do trabalho entre programadores, possibilitando compartilhar e controlar as diversas alterações de um código raiz visando diminuir problemas e facilitar a execução de um programa ou aplicação. 
 
@@ -20,39 +20,39 @@ Comparado a outros SCV,  se destacou e ficou bastante conhecido a partir de 2010
 
 
 
-15.2 PRINCIPAIS TÉCNICAS E FERRAMENTAS DISCUTIDAS.
+## 15.2 PRINCIPAIS TÉCNICAS E FERRAMENTAS DISCUTIDAS.
 
 Vamos relembrar?
 
 Falamos muito como o Git é uma ferramenta flexível e dinâmica, e para ilustrar isso iremos relembrar os conceitos ou comandos básicos do Git, e não bastando alguns conceitos que são comuns de se ouvir, iremos destacar o que é snapshot, commit, flags, e staging. Onde um snapshot, é como uma captura de algo em um determinado instante como uma foto. O commit, o comando que leva as mudanças para o repositório no Git, podendo ser instantâneos ou marcos ao longo do desenvolvimento de um projeto Git. O flags, um comando lógico de sinalização, para que finalize o processo de um programa. E o staging, a área que intermedia entre o diretório de trabalho e o repositório git.
 
 Os conceitos ou comandos básicos do Git se dividem nos seguintes tópicos, e em cada tópico serão esclarecidos, sendo eles:
-a.	Inicialização e configuração: 
-•	git init: inicia um novo repositório;
-•	git config: configura as opções de instalação e/ou de usuário do git.
+### a.	Inicialização e configuração
+- git init: inicia um novo repositório;
+- git config: configura as opções de instalação e/ou de usuário do git.
 
-b.	Enviar arquivos: 
-•	git add: antes de fazer o commit (projeto oficial);
-•	git commit: submeter as mudanças;
-•	git fetch: importar commits;
-•	git pull: versão automatizada do git fetch;
-•	git push: transfere commits;
-•	arquivos.gitignore: para os arquivos que o Git deve ignorar na hora de fazer um commit;
-•	git tag: cria etiquetas de estado relevantes.
+### b.	Enviar arquivos: 
+-	git add: antes de fazer o commit (projeto oficial);
+-	git commit: submeter as mudanças;
+-	git fetch: importar commits;
+-	git pull: versão automatizada do git fetch;
+-	git push: transfere commits;
+-	arquivos.gitignore: para os arquivos que o Git deve ignorar na hora de fazer um commit;
+-	git tag: cria etiquetas de estado relevantes.
 
-c.	Verificar informações:
-•	git log: verificar as revisões passadas;
-•	git diff: mostra alterações;
+### c.	Verificar informações:
+-	git log: verificar as revisões passadas;
+-	git diff: mostra alterações;
 
-d.	Receber arquivos:
-•	git clone: cria cópia de um repositório já existente.
+### d.	Receber arquivos:
+-	git clone: cria cópia de um repositório já existente.
 
-e.	Alterar Branches:
-•	git branch: gerencia as branches de um repositório;
-•	git checkout: muda de Branch ou volta para algum estado do projeto;
-•	git merge: faz mescla entre branchs;
-•	git rebase: move as branches;
-•	git stash: arquiva alterações não “commitadas”, volta para o estado do último commit, guardando as alterações adicionais.
+### e.	Alterar Branches:
+-	git branch: gerencia as branches de um repositório;
+-	git checkout: muda de Branch ou volta para algum estado do projeto;
+-	git merge: faz mescla entre branchs;
+-	git rebase: move as branches;
+-	git stash: arquiva alterações não “commitadas”, volta para o estado do último commit, guardando as alterações adicionais.
 
 Além dos comandos, no Git existem as tags, elas são como fotos de um determinado momento de um repositório, que também servem para ajudar a identificar a origem da falha em um código, e funcionam como apontadores fixos para um commit específico, e não avançam com novos commits.
 
@@ -64,7 +64,7 @@ Além do GitHub, existem outras plataformas como o GitLab e Bitbucker, que tamb�
 
 
 
-REFERÊNCIAS BIBLIOGRÁFICAS
+# REFERÊNCIAS BIBLIOGRÁFICAS <!-- omit in toc --><!-- markdownlint-disable -->
 
 3 Versionamento de código. Disponível em: <https://prdm0.github.io/aulas_computacional/versionamento-de-c%C3%B3digo.html>. Acesso em: 28 jun. 2024.
 
